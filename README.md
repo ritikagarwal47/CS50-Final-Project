@@ -10,4 +10,4 @@ Finance Tracker is a web app implemented using Flask and bootstrap that works li
     History: User can see the past transaction history.
 
 #Project video
-https://youtu.be/nmdu_K3gk1E
+https://youtu.be/LAuDy6UMtpA
